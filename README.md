@@ -27,17 +27,17 @@ Propuesta de Valor:
 
 Principales Funcionalidades: 
 
-Index: Permite viajar dentro de las paginas de busqueda, aparte de mostrar las ultimas novedades:
+Index: Permite viajar dentro de las paginas de busqueda (listadas a continuación), aparte de mostrar las ultimas novedades:
 
-    *
+    
     Animales Perdidos: Permite explorar galeria de animales con el estado de perdido.
-    *
+    
     Animales Encontrados: Permite explorar galeria de animales con el estado de encontrado.
-    *
+    
     Animales Callejeros: Permite explorar galeria de animales con el estado de Callejeros. (Que frecuentan ciertas zonas sin dueños)
-    *
+    
     Adopta una Mascota: Permite explorar galeria de animales con el estado de adopción.
-    *
+    
     Animales Regresados: Permite explorar los casos de animales que han sido regresados a sus dueños.
 
     
