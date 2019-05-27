@@ -1,7 +1,9 @@
 ###### Petgle
 
 Curso: Programación Multiplataforma
+
 Bloque:FC-PREINF04B1T
+
 Por:
 Juan Pedro Goicochea
 Alex Mac Kee
@@ -9,8 +11,11 @@ Alex Mac Kee
 Tema: Aplicativo Web que permita reducir el numero de animales callegeros, brindando servicio de adopcion, mascotas perdidas, servicios de esterilizacion, etc.
 
 Nombre del Producto: PetGle
+
 Visión del Producto a largo plazo: Que sea una fuente habitual para el proceso de adopcion de animales, generando una comunidad dispuesta a la ayuda animal.
+
 Público Objetivo: Dirigido a aquellos que perdieron, encontraron, o deseen adoptar/ayudar a una mascota.
+
 Propuesta de Valor: 
 *La posibilidad de no perder las esperanzas en recuperar a un miembro de la familia.
 *El medio para buscar un nuevo miembro de tu familia, sin fomentar la explotacion de mascotas.
