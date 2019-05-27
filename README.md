@@ -2,7 +2,7 @@
 
 Curso: Programación Multiplataforma
 
-Bloque:FC-PREINF04B1T
+Bloque: FC-PREINF04B1T
 
 Por:
 Juan Pedro Goicochea,
@@ -18,9 +18,9 @@ Público Objetivo: Dirigido a aquellos que perdieron, encontraron, o deseen adop
 
 Propuesta de Valor: 
 
-*La posibilidad de no perder las esperanzas en recuperar a un miembro de la familia.
+*La posibilidad de no perder las esperanzas en recuperar a un miembro de la familia.*
 
-*El medio para buscar un nuevo miembro de tu familia, sin fomentar la explotacion de mascotas.
+*El medio para buscar un nuevo miembro de tu familia, sin fomentar la explotacion de mascotas.*
 
 *Forma centralizada y directa para coordinar los servicios y necesidades que un animal necesita.*
 
